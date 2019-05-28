@@ -1,7 +1,11 @@
 resolver: lts-9.6
+packages:
+- location: .
+- location:
+    git: https://github.com/robx/configurator-pg.git
+    commit: a228a834b940c341b67f8dea2e73df0554006c0d
+  extra-dep: true
 extra-deps:
-  - configurator-ng-0.0.0.1
-  - critbit-0.2.0.0
   - Ranged-sets-0.3.0
   - protolude-0.2.2
   - hasql-1.3

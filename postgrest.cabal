@@ -59,7 +59,7 @@ library
                      , bytestring
                      , case-insensitive
                      , cassava
-                     , configurator-ng == 0.0.0.1
+                     , configurator-pg
                      , containers
                      , contravariant
                      , contravariant-extras
