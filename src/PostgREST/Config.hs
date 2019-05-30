@@ -32,7 +32,7 @@ import qualified Data.CaseInsensitive         as CI
 import qualified Data.Configurator            as C
 import qualified Text.PrettyPrint.ANSI.Leijen as L
 
-import Control.Exception           (Handler(..))
+import Control.Exception           (Handler (..))
 import Control.Lens                (preview)
 import Control.Monad               (fail)
 import Crypto.JWT                  (StringOrURI, stringOrUri)
