@@ -1,0 +1,7 @@
+resolver: lts-13.24
+packages:
+- .
+extra-deps:
+- configurator-pg-0.1.0.3
+- Ranged-sets-0.4.0
+- jose-0.7.0.0
