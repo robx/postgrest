@@ -2,4 +2,4 @@ resolver: nightly-2019-07-05
 extra-deps:
 - jose-0.7.0.0
 - git: git@github.com:robx/text-printer.git
-  commit: master
+  commit: 8807740448b368456c67ef6a9f4b0dc8e37006e8
