@@ -1,6 +1,5 @@
 resolver: nightly-2019-07-05
 extra-deps:
 - jose-0.7.0.0
-- location:
-    git: git@github.com:robx/text-printer.git
-    commit: master
+- git: git@github.com:robx/text-printer.git
+  commit: master
