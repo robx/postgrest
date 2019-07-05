@@ -1,1 +1,3 @@
 resolver: nightly-2019-07-05
+extra-deps:
+- jose-0.7.0.0
